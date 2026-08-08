@@ -26,11 +26,11 @@ Key concepts:
 ## Package structure
 
 ```
-theory5/
+T5/
 ├── units/
 │   └── units.py          # units calculus
-└── constants/
-    └── constants.py     # PhysicalConstants
+└── blackBody/
+    └── blackBody.py      # black-body radiation
 ```
 
 ## Theory summary

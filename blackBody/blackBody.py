@@ -15,7 +15,7 @@ import math
 # Input estimates  — adjust to match your measurements
 # =============================================================================
 a_est   = 1 / 137.035999084   # fine-structure constant α
-cmb_est = 2.725962684               # CMB temperature estimate [K]  (theory: ≈ e ≈ 2.71828)
+cmb_est = 2.725962684         # CMB temperature estimate [K]  (theory: ≈ e ≈ 2.71828)
 
 # =============================================================================
 # Derived parameters
