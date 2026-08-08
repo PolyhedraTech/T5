@@ -46,6 +46,20 @@ The framework provides a common basis for both quantum mechanics and general
 relativity by deriving the fine-structure constant, Planck units, and the
 Bekenstein–Hawking entropy coefficient from a single string tension parameter.
 
+## Authors
+
+Theory-5 was conceived and developed by:
+
+| Author | Affiliation | ORCID | Publications |
+|---|---|---|---|
+| **Jorge Luis Silva de Barcellos** | — | [0000-0003-4046-2018](https://orcid.org/0000-0003-4046-2018) | [ResearchGate](https://www.researchgate.net/profile/Jorge-Barcellos) |
+| **Pau Fonseca i Casas**, Ph.D. | Universitat Politècnica de Catalunya — Dept. Statistics and Operations Research | [0000-0002-6747-9736](https://orcid.org/0000-0002-6747-9736) | [ResearchGate](https://www.researchgate.net/profile/Pau-Fonseca-I-Casas) |
+
+
+> All source files in this repository are the intellectual work of the authors
+> listed above.  If you use or build upon this work, please cite the authors
+> and link back to this repository.
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
