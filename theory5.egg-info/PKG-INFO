@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: theory5
+Version: 0.1.0
+Summary: Theory-5: A fermionic string-based framework for physical reality
+License: MIT
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Provides-Extra: dev
+Requires-Dist: pytest>=7; extra == "dev"
+Dynamic: license-file
+
+# T5
+Theory-5 code
